@@ -1,0 +1,10 @@
+*To run the executable file, click on the Adventure of chunchin.exe in Executable file folder.
+(Only available in windows and no SDL library extention is a required installation)
+
+
+*To run it from linux, you have to type the command in the terminal inside the Source file directory.
+ The command is : 
+
+ g++ game.cpp -w -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer && ./a.out
+
+ To run it on ubuntu SDL2,SDL2-image,SDL2-ttf,SDL2-mixer extention libraries should be installed
